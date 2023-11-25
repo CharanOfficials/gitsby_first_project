@@ -4,7 +4,8 @@ import {   container,
   heading,
   navLinks,
   navLinkItem,
-  navLinkText } from '../components/layout.module.css'
+  navLinkText } from './layout.module.css'
+  
 const Layout = ({ pageTitle, children }) => {
   return (
     <div className={container}>

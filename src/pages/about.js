@@ -1,5 +1,5 @@
 import * as React from 'react'
-import Layout from './layout'
+import Layout from '../components/layout'
 
 // Step 2: Define your component
 const AboutPage = () => {
